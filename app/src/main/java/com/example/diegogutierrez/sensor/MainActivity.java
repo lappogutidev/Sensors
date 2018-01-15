@@ -33,6 +33,7 @@ import java.util.Random;
 
 public class MainActivity extends Activity implements SensorEventListener {
 
+    //YUMMY TUMMYYYYYYYYYYYYYYYY
     private Sensor accelerometer;
     private double xAcceleration = 0d;
     private double max = 0d;
