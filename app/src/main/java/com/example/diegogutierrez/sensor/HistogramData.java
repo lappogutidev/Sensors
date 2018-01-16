@@ -4,10 +4,6 @@ import com.github.mikephil.charting.data.BarEntry;
 
 import java.util.ArrayList;
 
-/**
- * Created by diegogutierrez on 1/14/18.
- */
-
 public class HistogramData {
 
     private ArrayList<BarEntry> entries = new ArrayList<BarEntry>();

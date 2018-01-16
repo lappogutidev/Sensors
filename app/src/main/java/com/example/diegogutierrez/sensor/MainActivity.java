@@ -21,6 +21,8 @@ import java.util.ArrayList;
 
 public class MainActivity extends Activity implements SensorEventListener {
 
+    // Small Change
+
     private Sensor accelerometer;
     private double xAcceleration = 0d;
 
