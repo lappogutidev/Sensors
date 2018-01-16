@@ -45,76 +45,10 @@
                 android:layout_height="0dp"
                 android:layout_weight="0.5"/>
 
-            <TableLayout
+            <ListView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
-                android:layout_weight="0.5"
-                android:id="@+id/tableLayout">
-                <TableRow>
-                    <Button
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Button"
-                        android:layout_column="1"
-                        android:id="@+id/refreshButton"
-                        android:onClick="refresh"/>
-                </TableRow>
-                <TableRow>
-
-                    <TextView
-                        android:id="@+id/label1"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_column="1"
-                        android:layout_weight="0.5"
-                        android:text="Label X" />
-
-                    <TextView
-                        android:id="@+id/value1"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_column="2"
-                        android:layout_weight="0.5"
-                        android:text="Text X" />
-                </TableRow>
-                <TableRow>
-
-                    <TextView
-                        android:id="@+id/label2"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_column="1"
-                        android:layout_weight="0.5"
-                        android:text="Label X" />
-
-                    <TextView
-                        android:id="@+id/value2"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_column="2"
-                        android:layout_weight="0.5"
-                        android:text="Text X" />
-                </TableRow>
-                <TableRow>
-
-                    <TextView
-                        android:id="@+id/label3"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_column="1"
-                        android:layout_weight="0.5"
-                        android:text="Label X" />
-
-                    <TextView
-                        android:id="@+id/value3"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_column="2"
-                        android:layout_weight="0.5"
-                        android:text="Text X" />
-                </TableRow>
-
-            </TableLayout>
+                android:layout_weight="0.5" />
 
         </LinearLayout>
 
