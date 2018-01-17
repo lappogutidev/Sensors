@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://C:\Users\pramo\Documents\GitHub\Sensors\Sensor.iml" filepath="C:\Users\pramo\Documents\GitHub\Sensors\Sensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sensors.iml" filepath="$PROJECT_DIR$/Sensors.iml" />
+      <module fileurl="file://C:\Users\DiegoGutierrezDev\Desktop\Developer\FTC\Sensors\Sensors.iml" filepath="C:\Users\DiegoGutierrezDev\Desktop\Developer\FTC\Sensors\Sensors.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\DiegoGutierrezDev\Desktop\Developer\FTC\Sensors\app\app.iml" filepath="C:\Users\DiegoGutierrezDev\Desktop\Developer\FTC\Sensors\app\app.iml" />
       <module fileurl="file://C:\Users\pramo\Documents\GitHub\Sensors\app\app.iml" filepath="C:\Users\pramo\Documents\GitHub\Sensors\app\app.iml" />
     </modules>
   </component>

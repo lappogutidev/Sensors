@@ -9,10 +9,6 @@ import com.github.mikephil.charting.formatter.IndexAxisValueFormatter;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * Created by diegogutierrez on 1/12/18.
- */
-
 public class Statistics {
 
     public double getMean(ArrayList<Double> data) {
